@@ -1,0 +1,7 @@
+data:
+  test01:
+    test: call
+  test02:
+    test: network
+  test03:
+    test: settings
